@@ -5,24 +5,16 @@
  */
 	public class BankAccount 
 	{
-
 		private String name;
 		private int accNum;
-		private int balance;
+		private double balance;
 		
-		
-		public BankAccount()
+		public BankAccount(int accNum, String name)
 		{
-			name = "account1";
+			balance = 0;
+			accNum = 10;
+			name = first;
 		}
-		
-		
-		
-		public BankAccount()
-		{
-			accNum = 
-		}
-		
 		
 		
 
