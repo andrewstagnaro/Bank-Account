@@ -39,10 +39,4 @@
 		{
 			return balance;
 		}
-		
-		public String toString()
-		{
-			return "name: " + 
-		}
-	
 	}
